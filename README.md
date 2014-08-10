@@ -17,7 +17,7 @@ https://github.com/arifwn/t9-emulator
 Usage
 =====
 Default dictionary:
-getPossibleWords($input) in which $input is numbers pressed by user.
+getPossibleWords($input) in which $input are numbers pressed by user.
 For example:
 ```php
 include_once("t9input.class.php");
